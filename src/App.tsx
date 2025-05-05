@@ -42,7 +42,7 @@ function App() {
       <DocumentEditorContainerComponent
         id={CONTAINER_ID}
         height="100%"
-        width="70%"
+        width="100%"
         enableToolbar={true}
         enableSpellCheck={true}
         ref={(scope) => {
